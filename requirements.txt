@@ -1,0 +1,6 @@
+spacy[apple]
+spacy-langdetect
+PyPDF2
+python-docx
+streamlit
+langdetect
